@@ -1,6 +1,6 @@
 # mpvue-first
 
-> A Mpvue project
+> A Mpvue 小程序vue框架demo
 
 ## Build Setup
 
@@ -8,14 +8,10 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# 生成dist小程序文件
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+# 开发在src目录下、上传dist目录
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
